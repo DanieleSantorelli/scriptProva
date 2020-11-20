@@ -1,1 +1,1 @@
-dism /online /Enable-Feature /FeatureName:TelnetClient;
+dism /online /Enable\"&\#45;"Feature /FeatureName:TelnetClient;
