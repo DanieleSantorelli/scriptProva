@@ -1,1 +1,1 @@
-dism /online /Enable&minusFeature /FeatureName:TelnetClient;
+dism /online /Enable&minus;Feature /FeatureName:TelnetClient;
